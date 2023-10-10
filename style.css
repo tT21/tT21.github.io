@@ -1,0 +1,50 @@
+body
+
+{
+    background-image: url(tlo.jfif);
+    background-size: 200%;
+    text-align: center;
+}
+h1
+{
+    border-width: 7px;
+    border-style:solid;
+    border-radius:20%;
+    background-color: #000000;
+    font-family: Helvetica;
+    font-size:35px;
+    color: rgb(146, 12, 68);
+    text-shadow: 0.1em 0.1em rgb(201, 55, 116);
+}
+h3
+{
+    border-radius:20px;
+    background-color: #080808;
+    font-size:25px;
+    font-family: Tahoma;
+    color:rgb(29, 156, 156);
+    text-shadow: 0.1em 0.1em #000000;
+    text-align:center
+
+}
+p
+{
+    text-align:center;
+    text-shadow: 0.1em 0.1em #000000;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: Verdana;color:rgb(187, 47, 47)
+    
+}
+a
+{
+    color: rgb(194, 64, 114);
+    font-size: 20px;
+    text-shadow: 0.1em 0.1em #b31c1c;
+}
+img
+{
+    border-radius: 15%;
+    width: 255px;
+    height: 90px;
+}
