@@ -1,50 +1,45 @@
 body
 
 {
-    background-color: bisque;
+
+    background-image:url("tlo2.jpg");
+    background-size: 1500px;
     text-align: center;
 }
 h1
 {
-    border-width: 7px;
-    border-style:solid;
-    border-radius:20%;
+    border-style:dotted;
+    border-radius: 20px;
     background-color: #000000;
-    font-family: Helvetica;
-    font-size:35px;
-    color: rgb(146, 12, 68);
-    text-shadow: 0.1em 0.1em rgb(201, 55, 116);
+    font-family: Arial;
+    font-size:30px;
+    color: rgb(255, 255, 255);
+    text-decoration:underline;
 }
+
 h3
 {
     border-radius:20px;
+    border-style:groove;
     background-color: #080808;
-    font-size:25px;
-    font-family: Tahoma;
-    color:rgb(29, 156, 156);
-    text-shadow: 0.1em 0.1em #000000;
+    font-size:23px;
+    font-family: Verdana;
+    color:rgb(235, 55, 0);
     text-align:center
 
 }
 p
 {
     text-align:center;
-    text-shadow: 0.1em 0.1em #000000;
-    font-weight: bold;
     font-size: 18px;
-    font-family: Verdana;color:rgb(187, 47, 47)
+    font-family: Verdana;color:rgb(0, 0, 0)
     
 }
 a
 {
-    color: rgb(194, 64, 114);
+    color: rgb(33, 30, 180);
     font-size: 20px;
-    text-shadow: 0.1em 0.1em #b31c1c;
+   
    
 }
-img
-{
-    border-radius: 15%;
-    width: 255px;
-    height: 90px;
-}
+
