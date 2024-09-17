@@ -28,18 +28,32 @@ h3
     text-align:center
 
 }
+
 p
 {
     text-align:center;
     font-size: 18px;
-    font-family: Verdana;color:rgb(255, 255, 255)
+    font-family:'Courier New', Courier, monospace;color:rgb(255, 255, 255);
     
 }
 a
 {
-    color: rgb(33, 30, 180);
+    color: rgb(0, 247, 103);
     font-size: 20px;
    
    
 }
+ul
+{
+    text-align: left;
+    font-size: 18px;
+    font-family:'Courier New', Courier, monospace;color:rgb(255, 255, 255)
+}
+h2{
+    text-align:left;
+    font-size: 18px;
+    font-family: Verdana;color:rgb(4, 226, 41)
+}
+
+
 
