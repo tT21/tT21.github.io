@@ -54,6 +54,11 @@ h2{
     font-size: 18px;
     font-family: Verdana;color:rgb(4, 226, 41)
 }
+div{
+    max-width: 600px;
+    margin: auto 600px;
+}
+
 
 
 
